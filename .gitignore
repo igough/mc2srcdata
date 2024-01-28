@@ -2,4 +2,21 @@
 *~
 *.dll
 *.swp
+tgl/*.tgl
+tgl/*.agl
+build_scripts/*.fst
+build_scripts/*.cfg
+build_scripts/*.rsp
+build_scripts/*.tga
+
+build_scripts/data/
+build_scripts/assets/
+
+build_scripts/ase2tgl
+build_scripts/aseconv
+build_scripts/makefst
+build_scripts/makersp
+build_scripts/pak
+build_scripts/text_tool
+
 
